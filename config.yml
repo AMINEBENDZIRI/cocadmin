@@ -1,4 +1,8 @@
 config:
     -COCA
    
+<<<<<<< HEAD
     -PepsI
+=======
+    -Pepsi
+>>>>>>> boissons-config
