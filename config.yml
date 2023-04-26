@@ -2,9 +2,12 @@ config:
     -coca35cl
    
 <<<<<<< HEAD
+<<<<<<< HEAD
     -PepsI35cl
     
 =======
     -PepsI25cl
+=======
+    
+>>>>>>> modif-deux-fichiers
     -Pepsi35cl
->>>>>>> pepsi-branch
