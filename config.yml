@@ -1,10 +1,5 @@
 config:
     -coca35cl
    
-<<<<<<< HEAD
-    -PepsI35cl
-    -Pepsi25cl
-=======
-    -PepsI25cl
+    
     -Pepsi35cl
->>>>>>> pepsi-branch
