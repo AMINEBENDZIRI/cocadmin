@@ -1,8 +1,5 @@
 config:
-    -COCA
+    -coca25cl
    
-<<<<<<< HEAD
     -PepsI
-=======
     -Pepsi
->>>>>>> boissons-config
